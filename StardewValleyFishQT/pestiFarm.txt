@@ -1,0 +1,480 @@
+Pufferfish
+Summer
+Sun
+Ginger Island Oceans/Ocean
+24
+16
+80
+X
+Anchovy
+Fall/Spring
+Any
+Ocean
+6
+2
+30
+X
+Sardine
+Fall/Spring/Winter
+Any
+Ocean
+6
+19
+30
+X
+Largemouth Bass
+Fall/Spring/Summer/Winter
+Any
+Mountain Lake
+6
+19
+50
+X
+Tuna
+Summer/Winter
+Any
+Ginger Island Oceans/Ocean
+6
+19
+70
+X
+Bream
+Fall/Spring/Summer/Winter
+Any
+Forest River/Town River
+6
+14
+35
+X
+Ghostfish
+Fall/Spring/Summer/Winter
+Any
+Mines lvl 20/Mines lvl 60
+6
+2
+50
+X
+Chub
+Fall/Spring/Summer/Winter
+Any
+Forest River/Mountain Lake
+6
+2
+35
+X
+Red Snapper
+Fall/Summer
+Rain
+Ocean
+6
+19
+40
+X
+Smallmouth Bass
+Fall/Spring
+Any
+Forest Pond/Town River
+6
+2
+28
+X
+Shad
+Fall/Spring/Summer
+Rain
+Forest River/Town River
+9
+14
+45
+X
+Rainbow Trout
+Summer
+Sun
+Forest River/Mountain Lake/Town River
+6
+19
+45
+X
+Albacore
+Fall/Winter
+Any
+Ocean
+18
+11
+60
+X
+Bullhead
+Fall/Spring/Summer/Winter
+Any
+Mountain Lake
+6
+2
+46
+X
+Red Mullet
+Summer/Winter
+Any
+Ocean
+6
+19
+55
+X
+Salmon
+Fall
+Any
+Forest River/Town River
+6
+19
+50
+X
+Sandfish
+Fall/Spring/Summer/Winter
+Any
+The Desert
+6
+20
+65
+X
+Sea Cucumber
+Fall/Winter
+Any
+Ocean
+6
+19
+40
+X
+Tilapia
+Fall/Summer
+Any
+Ginger Island Rivers/Ocean
+6
+14
+50
+X
+Woodskip
+Fall/Spring/Summer/Winter
+Any
+Secret Woods Pond
+6
+2
+50
+X
+Halibut
+Spring/Summer/Winter
+Any
+Ocean
+19
+11
+50
+X
+Squid
+Winter
+Any
+Ocean
+18
+24
+75
+-
+Eel
+Fall/Spring
+Rain
+Ocean
+16
+24
+70
+X
+Dorado
+Summer
+Any
+Forest River
+6
+19
+78
+X
+Flounder
+Spring/Summer
+Any
+Ginger Island Oceans/Ocean
+6
+20
+50
+X
+Lionfish
+Fall/Spring/Summer/Winter
+Any
+Ginger Island Oceans/Ocean
+6
+2
+50
+-
+Pike
+Summer/Winter
+Any
+Forest Pond/Forest River/Town River
+6
+2
+60
+X
+Slimejack
+Fall/Spring/Summer/Winter
+Any
+Mutant Bug Lair
+6
+2
+55
+-
+Walleye
+Fall/Winter
+Rain
+Forest Pond/Forest River/Mountain Lake/Town River
+24
+2
+45
+X
+Blue Discus
+Fall/Spring/Summer/Winter
+Any
+Ginger Island Pond/Ginger Island Rivers
+6
+2
+60
+-
+Lingcod
+Winter
+Any
+Forest River/Mountain Lake/Town River
+6
+2
+85
+-
+Midnight Carp
+Winter
+Any
+Cindersap Forest Pond/Ginger Island Pond/Ginger Island Rivers/Mountain Lake
+22
+2
+55
+-
+Octopus
+Summer
+Any
+Ocean
+6
+13
+95
+-
+Scorpion Carp
+Fall/Spring/Summer/Winter
+Any
+The Desert
+6
+20
+90
+-
+Tiger Trout
+Fall/Winter
+Any
+Forest River/Town River
+6
+19
+60
+X
+Void Salmon
+Fall/Spring/Summer/Winter
+Any
+Witch's Swamp
+6
+2
+80
+-
+Stingray
+Fall/Spring/Summer/Winter
+Any
+Pirate Cove
+6
+2
+80
+-
+Catfish
+Fall/Spring
+Rain
+Forest River/Secret Woods Pond/Town River/Witch's Swamp
+6
+12
+75
+X
+Sturgeon
+Summer/Winter
+Any
+Mountain Lake
+6
+19
+78
+X
+Super Cucumber
+Fall/Summer
+Any
+Ginger Island Oceans/Ocean
+18
+2
+80
+-
+Stonefish
+Fall/Spring/Summer/Winter
+Any
+Mines lvl 20
+6
+2
+65
+X
+Ice Pip
+Fall/Spring/Summer/Winter
+Any
+Mines lvl 60
+6
+2
+85
+-
+Lava Eel
+Fall/Spring/Summer/Winter
+Any
+Mines lvl 100/Volcano Caldera
+6
+2
+90
+X
+Crimsonfish
+Summer
+Any
+Ocean
+6
+2
+95
+-
+Angler
+Fall
+Any
+Town River
+6
+2
+85
+X
+Legend
+Spring
+Rain
+Mountain Lake
+6
+2
+110
+-
+Glacierfish
+Winter
+Any
+Cindersap Forest Pond
+6
+2
+100
+-
+Mutant Carp
+Fall/Spring/Summer/Winter
+Any
+The Sewers
+6
+2
+80
+-
+Son of Crimsonfish
+Fall/Spring/Summer/Winter
+Any
+Ocean
+6
+2
+95
+-
+Ms. Angler
+Fall/Spring/Summer/Winter
+Any
+Town River
+6
+2
+85
+-
+Legend II
+Fall/Spring/Summer/Winter
+Any
+Mountain Lake
+6
+2
+110
+-
+Glacierfish Jr.
+Fall/Spring/Summer/Winter
+Any
+Cindersap Forest Pond
+6
+2
+100
+-
+Radioactive Carp
+Fall/Spring/Summer/Winter
+Any
+The Sewers
+6
+2
+80
+-
+Perch
+Winter
+Any
+Forest Pond/Forest River/Mountain Lake/Town River
+6
+2
+35
+-
+Carp
+Fall/Spring/Summer
+Any
+Mountain Lake/Secret Woods/The Sewers/Mutant Bug Lair
+6
+2
+15
+X
+Midnight Squid
+Winter
+Any
+Night Market
+17
+2
+55
+-
+Spook Fish
+Winter
+Any
+Night Market
+17
+2
+60
+-
+Blobfish
+Winter
+Any
+Night Market
+17
+2
+75
+-
+Sunfish
+Spring/Summer
+Sun
+River
+6
+19
+30
+X
+Herring
+Spring/Winter
+Any
+Ocean
+6
+2
+25
+X
