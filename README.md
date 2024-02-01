@@ -13,6 +13,12 @@ This game has a complex mini-game in which you can catch fish so I made this pro
 - Difficulty;
 - Caught/Not caught.
 
+<style>
+  body {
+    font-family: 'Comic Sans MS', cursive;
+  }
+</style>
+
 **The available functionalities are:**
 - Filter Fish by Season, Weather or Caught/Not Caught;
 - Search for A Fish After Name;
