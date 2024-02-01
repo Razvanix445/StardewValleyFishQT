@@ -1,3 +1,5 @@
+#Stardew Valley App
+
 Stardew Valley is a popular 2D game developed by Eric Barone.
 This game has a complex mini-game in which you can catch fish so I made this project to easily detect the fish I want to catch.
 
