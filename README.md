@@ -16,6 +16,6 @@ This game has a complex mini-game in which you can catch fish so I made this pro
 **The available functionalities are:**
 - Filter Fish by Season, Weather or Caught/Not Caught;
 - Search for A Fish After Name;
-**- It also has adding, removing, modifying functionalities, but they are tricky ^_^.*
+- *It also has adding, removing, modifying functionalities, but they are tricky ^_^.*
 
 Good luck on catching fish!
