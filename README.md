@@ -20,3 +20,4 @@ This game has a complex mini-game in which you can catch fish so I made this pro
 > *It also has adding, removing, modifying functionalities, but they are tricky ^_^.*
 
 Good luck on catching fish!
+![Screenshot 2024-03-30 200743](https://github.com/Razvanix445/StardewValleyFishQT/assets/123154899/0bd83ea1-5939-4551-aff6-a7aea2aba04c)
